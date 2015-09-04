@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 /**
+ * This code will columnize all words in a given string input into separate columns.
  * @author Chejerla Karthik
  *
  */
