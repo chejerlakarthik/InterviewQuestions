@@ -18,7 +18,7 @@ public class VerticalPrinting {
 	 */
 	public static void main(String[] args) {
 
-		String str = "MY NAME IS KARTHIK";
+		String str = "MY NAME IS KARTHIK ABRA-KA-DABRA";
 		int maxlength = 0;
 		
 		StringTokenizer tokenizer = new StringTokenizer(str);
