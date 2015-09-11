@@ -17,4 +17,5 @@ public class B extends A
     {
         i = ++i + i++;
     }
+
 }

@@ -22,11 +22,12 @@ public class RemoveDuplicates {
 					numbers[i] = numbers[i] - numbers[j];
 				}
 			}
-			
 		}
 		
 		int previous = 0;
 		int j=0;
+		
+		//java.util.Arrays.sort(numbers);
 		
 		for(int i=0; i < numbers.length; i++)
 		{

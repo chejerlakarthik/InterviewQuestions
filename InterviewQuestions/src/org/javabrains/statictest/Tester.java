@@ -26,6 +26,7 @@ public class Tester {
 		
 		// This method call will give a null pointer exception
 		new A().methodOfA();
+		
 	}
 
 }
